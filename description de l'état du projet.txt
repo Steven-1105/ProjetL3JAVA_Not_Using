@@ -1,0 +1,3 @@
+1.On a actuellement terminé l'encapsulation de base des classes de personnages, de Npc, d'ennemis, de professions, d'objets et de butins, ainsi que des classes abstraites et des méthodes de base (par exemple, la création d'un personnage, la sélection d'une race, la sélection d'une profession, l'amélioration d'un personnage, les attaques, l'élimination d'objets par les ennemis).
+2.Finalisation de l'interface des compétences de base, rendant les compétences disponibles pour les personnages et les ennemis.
+3.Test.java pour tester tous les fonctionnalités réalisées pendant le développement du projet, surtout à propos de la création de personnage créé.
