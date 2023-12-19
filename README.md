@@ -1,2 +1,2 @@
 # ProjetL3JAVA
-Projet dont vous êtes le Héros
+Projet à propos d'un jeu dont vous êtes le Héros
